@@ -1,4 +1,13 @@
-### Hi there 👋
+[![](https://github-readme-activity-graph.vercel.app/graph?username=open17&theme=react-dark)](https://github.com/open17)
+### Most Used Languages
+<p align="center">
+<a href="https://github.com/open17">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=open17&theme=radical" />
+</a>
+</p>
+
+
+
 
 <!--
 **open17/open17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
