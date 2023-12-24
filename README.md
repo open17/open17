@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-![open17's GitHub stats](https://github-readme-stats.vercel.app/api?username=open17&show_icons=true)
+[![open17's GitHub stats](https://github-readme-stats.vercel.app/api?username=open17&show_icons=true)](https://github.com/open17/)
 
 ***
 
@@ -12,3 +12,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=open17&repo=Python-for-CP)](https://github.com/open17/Python-for-CP)
 
+
+#### Thanks for visiting :heart:
+counting of visitors to this page in this section started from Dec 24, 2023
+
+[![](https://count.getloli.com/get/@open17.github.readme)](https://github.com/open17/)
+
+</br>
