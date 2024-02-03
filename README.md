@@ -5,12 +5,17 @@
 [![open17's GitHub stats](https://github-readme-stats.vercel.app/api?username=open17&show_icons=true)](https://github.com/open17/)
 
 ***
-
+## vuepress
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=open17&repo=vuepress-theme-easy-book)](https://github.com/open17/vuepress-theme-easy-book)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=open17&repo=vuepress-theme-easy-book)](https://github.com/open17/vuepress-theme-easy-book)
 
+## 算法 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=open17&repo=Python-for-CP)](https://github.com/open17/Python-for-CP)
+
+## python
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=open17&repo=Bilibili_Downloader_Cli)](https://github.com/open17/Bilibili_Downloader_Cli)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=open17&repo=Python-for-CP)](https://github.com/open17/Python-for-CP)
+
 
 
 #### Thanks for visiting :heart:
