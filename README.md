@@ -26,6 +26,6 @@
 #### Thanks for visiting :heart:
 counting of visitors to this page in this section started from Dec 24, 2023
 
-[![](https://count.getloli.com/get/@open17.github.readme?theme=rule34)](https://github.com/open17/)
+[![](https://count.getloli.com/get/@open17.github.readme)](https://github.com/open17/)
 
 </br>
