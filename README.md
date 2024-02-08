@@ -8,10 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=open17&show_icons=true&layout=compact&theme=vue)](https://github.com/open17/)
 
 ***
-## vuepress
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=open17&repo=vuepress-theme-easy-book)](https://github.com/open17/vuepress-theme-easy-book)
-
-
+## Blog Theme
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=open17&repo=vuepress-theme-qbook)](https://github.com/open17/vuepress-theme-qbook)
 
 ## 算法 
