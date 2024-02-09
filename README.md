@@ -2,8 +2,8 @@
 
 # Hi there 👋
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=open17&show_icons=true&layout=compact&theme=vue" style="height:200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=open17&show_icons=true&layout=compact&theme=vue" style="height:200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=open17&show_icons=true&layout=compact&theme=vue" style="height:150px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=open17&show_icons=true&layout=compact&theme=vue" style="height:150px;"/>
 </div>
 
 ***
