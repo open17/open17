@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-[![open17's GitHub stats](https://github-readme-stats.vercel.app/api?username=open17&show_icons=true)](https://github.com/open17/)
+[![open17's GitHub stats](https://github-readme-stats.vercel.app/api?username=open17&show_icons=true&layout=compact&theme=vue)](https://github.com/open17/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=open17&show_icons=true&layout=compact&theme=vue)](https://github.com/open17/)
