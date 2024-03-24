@@ -6,10 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=open17&show_icons=true&layout=compact&theme=vue" style="height:150px;"/>
 </div>
 
-***
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=open17&repo=vuepress-theme-qbook)](https://github.com/open17/vuepress-theme-qbook)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=open17&repo=Python-for-CP)](https://github.com/open17/Python-for-CP)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=open17&repo=Bilibili_Downloader_Cli)](https://github.com/open17/Bilibili_Downloader_Cli)
 
 
 
